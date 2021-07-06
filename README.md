@@ -12,7 +12,7 @@ The users of this software need to take care getting traffic into it, e.g. by AR
 
 PyITM can be easily installed from pypi with all dependencies via e.g. pip:
 ```
-pip install pyitm
+pip install pythonitm
 ```
 
 ## Usage
